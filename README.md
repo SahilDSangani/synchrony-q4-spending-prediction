@@ -10,8 +10,6 @@ Predict customer spending for Q4 2025 using transaction and account data from Q2
 - Built interpretable models for business decision-making.
 - Explored multicollinearity, outliers, and feature engineering in-depth.
 
-
-
 ## 🔍 Techniques Used
 - Data preprocessing, EDA, and feature engineering
 - One-hot encoding and multicollinearity checks
@@ -22,9 +20,3 @@ Predict customer spending for Q4 2025 using transaction and account data from Q2
 - Sahil Sangani
 - Pitupoom Soontornthanon
 - Matupoom Soontornthanon
-
-## 📌 How to Run
-```bash
-git clone https://github.com/YOUR_USERNAME/synchrony-q4-spending-prediction.git
-cd synchrony-q4-spending-prediction
-pip install -r requirements.txt
